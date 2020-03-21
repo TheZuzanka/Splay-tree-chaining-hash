@@ -4,4 +4,4 @@
 
 ## Author
 
-* **Zuzana Wlachovská** - *najkrajšia spolupracovníčka* - [TheZuzanka](https://github.com/TheZuzanka)
+* **Zuzana Wlachovská** - [TheZuzanka](https://github.com/TheZuzanka)
